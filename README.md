@@ -55,7 +55,7 @@ I picked up a Google Chromecast with Google TV player and I was surprised that t
 
 Features
 - [x] Requires NO permissons 😁👍👌
-- [x] Supports XBOX gamepad connected via Bluetooth ot OTG cable
+- [x] Supports XBOX gamepad connected via Bluetooth or OTG cable
 - [X] Remembers signin
 - [X] Plays games in Fullscreen no borders
 
