@@ -54,9 +54,9 @@
 I picked up a Google Chromecast with Google TV player and I was surprised that there was no official way to play xCloud games as the official app that could be sideloaded stopped working. As a software engineer I decided to have a go at making a Android TV app that would allow xCloud to play in full screen with controller support. 
 
 Features
-- [x] Requires NO permissons 😁👍👌
-- [x] Supports XBOX gamepad connected via Bluetooth or OTG cable
-- [X] Remembers signin
+- [X] Requires NO permissions 😁👍👌
+- [X] Supports XBOX gamepad connected via Bluetooth or OTG cable
+- [X] Remembers sign in
 - [X] Plays games in Fullscreen no borders
 
 <p align="right">(<a href="#top">back to top</a>)</p>
