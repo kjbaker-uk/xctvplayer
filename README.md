@@ -71,6 +71,9 @@ Features
 <!-- GETTING STARTED -->
 ## Getting Started
 
+### Test release app
+If you just want to download the .apk file that's awesome, just use the download button at the top of this page. Please remember to star the project.
+
 ### Installation
 
 1. Clone the repo
@@ -78,7 +81,7 @@ Features
    git clone https://github.com/D4rkC00d3r/xctvplayer.git
    ```
 3. Open in Android Studio
-4. Run on a Android TV emulator
+4. Run on a Google TV emulator
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
