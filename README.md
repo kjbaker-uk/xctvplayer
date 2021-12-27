@@ -66,6 +66,8 @@ Features
 - [X] Supports XBOX gamepad connected via Bluetooth or OTG cable
 - [X] Remembers sign in
 - [X] Plays games in Fullscreen no borders
+- [X] 🆕 Now launch from channel icon!
+- [X] 🆕 Now loads faster!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -98,7 +100,9 @@ If you just want to download the .apk file that's awesome, just use the download
 
 - [x] User testing
 - [x] Release v1.0
-- [ ] Test on additional Android TV devices
+- [X] Test on additional Android TV devices (Via yje awesome people on Reddit) 👌
+- [X] Add a launch icon for Google TV
+- [X] Create a general Android version for all other devices.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
