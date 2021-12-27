@@ -154,8 +154,10 @@ Distributed under the GNU V2.0 License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@d4rkc00d3r](https://twitter.com/d4rkc00d3r)
+Twitter: [@d4rkc00d3r](https://twitter.com/d4rkc00d3r)
 
 Project Link: [https://github.com/d4rkc00d3r/xctvplayer](https://github.com/d4rkc00d3r/xctvplayer)
+
+Reddit: [Discussion thread](https://www.reddit.com/r/xcloud/comments/ro9hk2/xctvplayer_for_chromecast_with_google_tv/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
