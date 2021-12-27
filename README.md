@@ -17,6 +17,8 @@
     <a href="https://github.com/D4rkC00d3r/xctvplayer/issues">🐛Report Bug🪲</a>
     ·
     <a href="https://github.com/D4rkC00d3r/xctvplayer/issues">🆕Request Feature🆕</a>
+    .
+    <a href="#changelog">🪵Changelog🪵</a>
   </p>
 </div>
 
