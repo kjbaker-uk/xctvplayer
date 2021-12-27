@@ -5,6 +5,16 @@
       <map>
         <entry key="..\:/Code/xcloudlauncher/app/src/main/res/drawable/ic_launcher_background.xml" value="0.26944444444444443" />
         <entry key="..\:/Code/xcloudlauncher/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/Code/xctvplayer/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.21875" />
+        <entry key="..\:/Code/xctvplayer/app/src/main/res/drawable/ic_back.xml" value="0.21875" />
+        <entry key="..\:/Code/xctvplayer/app/src/main/res/drawable/ic_channel_background.xml" value="0.2601851851851852" />
+        <entry key="..\:/Code/xctvplayer/app/src/main/res/drawable/ic_launcher_background.xml" value="0.21875" />
+        <entry key="..\:/Code/xctvplayer/app/src/main/res/drawable/shape_address_bar.xml" value="0.21875" />
+        <entry key="..\:/Code/xctvplayer/app/src/main/res/layout/activity_main.xml" value="0.20260416666666667" />
+        <entry key="..\:/Code/xctvplayer/app/src/main/res/mipmap-anydpi-v26/ic_banner.xml" value="0.25" />
+        <entry key="..\:/Code/xctvplayer/app/src/main/res/mipmap-anydpi-v26/ic_channel.xml" value="0.21875" />
+        <entry key="..\:/Code/xctvplayer/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2601851851851852" />
+        <entry key="..\:/Code/xctvplayer/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2601851851851852" />
       </map>
     </option>
   </component>
