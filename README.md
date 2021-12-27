@@ -116,7 +116,7 @@ v1.1.0
 
     Added channel icon to allow launching from Google TV interface.
     Improved loading times.
-    Created a "general device" version for all other Android devices such as phones / tablets".
+    Created a "general device" version for all other Android devices such as phones / tablets.
     
 v1.0 
 
