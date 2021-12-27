@@ -49,7 +49,15 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+<p align="center">
 <img src="screenshot/xctvplayer_ss1.png" alt="Screenshot_1" width="350" height="200"><img src="screenshot/xctvplayer_ss3.png" alt="Screenshot_1" width="350" height="200">
+</p>
+
+<p align="center">
+  <img src="screenshot/demo.gif" alt="Screenshot_1" width="400" height="250">
+</p>
+
+
 
 I picked up a Google Chromecast with Google TV player and I was surprised that there was no official way to play xCloud games as the official app that could be sideloaded stopped working. As a software engineer, I decided to have a go at making a Google TV (Formally Android TV) app that would allow xCloud to play in full screen with controller support. 
 
