@@ -39,6 +39,7 @@
       </ul>
     </li>
     <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#changelog">ChangeLog</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -106,6 +107,20 @@ If you just want to download the .apk file that's awesome, just use the download
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+<!-- CHANGELOG -->
+## Changelog
+
+v1.1.0
+
+    Added channel icon to allow launching from Google TV interface.
+    Improved loading times.
+    Created a "general device" version for all other Android devices such as phones / tablets".
+    
+v1.0 
+
+    Released app.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 ## Contributing
