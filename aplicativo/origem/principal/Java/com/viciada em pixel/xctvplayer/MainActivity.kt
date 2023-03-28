@@ -68,6 +68,6 @@ class MainActivity : AppCompatActivity() {
 
 
     companion object {
-        private const val DEFAULT_URL = "https://www.xbox.com/en-Us/play"
+        private const val DEFAULT_URL = "https://www.xbox.com/pt-BR/play"
     }
 }
